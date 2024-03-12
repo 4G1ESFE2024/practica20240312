@@ -1,0 +1,2 @@
+﻿
+Scaffold-DbContext "Data Source=.;Initial Catalog=Practica20240312DB;Integrated Security=True;Encrypt=False" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
